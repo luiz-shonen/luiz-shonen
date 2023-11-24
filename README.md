@@ -15,7 +15,6 @@ These are some of the technologies and tools that I work with:
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=round&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=round&logo=android&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=round&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=round&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=round&logo=typescript&logoColor=white)
@@ -28,6 +27,7 @@ Frontend
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=round&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=round&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=round&logo=angular)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=round&logo=android&logoColor=white)
 
 Database:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=round&logo=postgresql&logoColor=white)
