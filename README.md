@@ -4,7 +4,7 @@ I'm Luiz Rodrigues,  I'm a Software Engineer at Montral Informática, currently 
 
 When I was 6 years old, my cousin gave me and my family a videogame called PolyStation, since then I became amazed and a lover of technology and games. What brought me to be a Software Engineer. One day I hope I can develop games in some company.
 
-[![Linkedin: luiz-rodrigues-4523a9167](https://img.shields.io/badge/-Linkedin-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)](https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)
+[![LinkedIn: luiz-rodrigues-4523a9167](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)](https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)
 
 ____
 
@@ -13,7 +13,9 @@ ____
 These are some of the technologies and tools that I work with:
 
 Backend: 
-![Java](https://img.shields.io/badge/-Java-007396?style=round&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=round&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=round&logo=android&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=round&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=round&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=round&logo=typescript&logoColor=white)
@@ -28,16 +30,18 @@ Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=round&logo=angular)
 
 Database:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=round&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=round&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=round&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=round&logo=mysql&logoColor=white)
 
 Cloud:
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=round&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=round&logo=firebase&logoColor=white)
 
 Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=round&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=round&logo=github)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=round&logo=azuredevops)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=round&logo=bitbucket)
 
 IDEs:
