@@ -4,6 +4,8 @@ I'm Luiz Rodrigues,  I'm a Software Engineer at Montral Informática, currently 
 
 When I was 6 years old, my cousin gave me and my family a videogame called PolyStation, since then I became amazed and a lover of technology and games. What brought me to be a Software Engineer. One day I hope I can develop games in some company.
 
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?style=round&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531992677624&text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20GitHub)](https://api.whatsapp.com/send?phone=5531992677624&text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20GitHub)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round&logo=gmail&logoColor=white&link=mailto:luiz.gmr.dev@gmail.com)](mailto:luiz.gmr.dev@gmail.com)
 [![LinkedIn: luiz-rodrigues-4523a9167](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)](https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)
 
 ____
