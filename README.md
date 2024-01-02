@@ -9,7 +9,7 @@ When I was 6 years old, my cousin gave me and my family a videogame called PolyS
 #### Feel free to contact me
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?style=round&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531992677624&text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20GitHub)](https://api.whatsapp.com/send?phone=5531992677624&text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20GitHub)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round&logo=gmail&logoColor=white&link=mailto:luiz.gmr.dev@gmail.com)](mailto:luiz.gmr.dev@gmail.com)
-[![LinkedIn: luiz-rodrigues-4523a9167](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)](https://www.linkedin.com/in/luiz-rodrigues-4523a9167/)
+[![LinkedIn: luiz-shonen](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-shonen)](https://www.linkedin.com/in/luiz-shonen)
 
 ____
 
