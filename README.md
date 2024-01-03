@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Luiz Rodrigues,  I'm a Software Engineer at Montral Informática, currently working for BDMG (Development Bank of the state of Minas Gerais), and I've been working in tech since 2018.
+I'm Luiz Rodrigues,  I'm a Software Engineer at Montreal Informática, currently working for BDMG (Development Bank of the state of Minas Gerais), and I've been working in tech since 2018.
 
 When I was 6 years old, my cousin gave me and my family a videogame called PolyStation, since then I became amazed and a lover of technology and games. What brought me to be a Software Engineer. One day I hope I can develop games in some company.
 
